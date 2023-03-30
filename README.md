@@ -4,7 +4,8 @@ I am currently enrolled in the Post-Baccalaureate Program in Computer Science wh
 certification at Oregon State University.
 - Presently, I am working on Python projects for my Portfolio.
 - I have just completed the course on data structures and will be taking the algorithm analysis and software engineering I for the next semester.
-- 📫 How to reach me: kopkaewp@oregonstate.edu
+- Let's connect: 
+  📧 kopkaewp@oregonstate.edu 
 ## Languages/Tools 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -21,3 +22,6 @@ certification at Oregon State University.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </div>
 
+## Github History:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pontipek&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pontipek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
