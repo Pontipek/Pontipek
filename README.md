@@ -6,7 +6,7 @@ certification at Oregon State University.
 - I have just completed the course on data structures and will be taking the algorithm analysis and software engineering I for the next semester.
 - Let's connect: 
   📧 kopkaewp@oregonstate.edu 
-- View some of the projects that i ahve worked on:
+- View some of the projects that i have worked on:
   [Projects Portfolio](https://pontipekopkaew.wixsite.com/my-site/projects)
   
 ## Languages/Tools 
