@@ -7,7 +7,7 @@ certification at Oregon State University.
 - Let's connect: 
   📧 kopkaewp@oregonstate.edu 
 - View some of the projects that i have worked on:
-  [Projects Portfolio](https://pontipekopkaew.wixsite.com/my-site/projects)
+  [Projects Portfolio](https://www.pontipekopkaew.com/projects)
   
 ## Languages/Tools 
 <div>
