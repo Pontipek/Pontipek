@@ -1,6 +1,6 @@
 # Hi, I’m Pontipe 👋
 ## About me
-**Computer Science graduate** with a strong interest in **IT and cybersecurity**, actively building hands-on experience through labs, research, and personal projects. I hold a **Cybersecurity Certificate from Oregon State University** and I’m currently working toward my **CompTIA Security+ certification**.
+Computer Science graduate with a strong interest in IT and cybersecurity, actively building hands-on experience through labs, research, and personal projects. I hold a Cybersecurity Certificate from Oregon State University and I’m currently working toward my CompTIA Security+ certification.
 
 ---
 
@@ -14,7 +14,7 @@ I am building real-world skills in:
 - Building a **private VPN using Raspberry Pi 5 + WireGuard**
 - Developing web applications using modern web technologies
 
-These projects have strengthened my understanding of:
+These projects have strengthened my understanding of: <br/>
 ✅ system administration  
 ✅ networking fundamentals  
 ✅ security fundamentals  
