@@ -1,10 +1,9 @@
 # Hi, I’m Pontipe 👋
+---
 ## About me
 Computer Science graduate with a strong interest in IT and cybersecurity, actively building hands-on experience through labs, research, and personal projects. I hold a Cybersecurity Certificate from Oregon State University and I’m currently working toward my CompTIA Security+ certification.
 
----
-
-## 🔐 What I’m Working On
+## What I’m Working On
 I am building real-world skills in:
 - **IT support and troubleshooting labs**
 - **Cybersecurity research + hands-on security labs**
@@ -20,9 +19,7 @@ These projects have strengthened my understanding of: <br/>
 ✅ security fundamentals  
 ✅ secure coding + web security  
 
----
-
-## 🎯 Career Goals
+## Career Goals
 I enjoy learning new technologies, solving technical problems, and continuously improving my skills.
 
 I am actively seeking:
@@ -32,18 +29,13 @@ I am actively seeking:
 
 Where I can gain real-world experience, contribute to a team, and grow professionally.
 
----
-
-## 📌 Featured Projects
-⭐ Check out some of my hands-on labs and projects here:  
+## Featured Projects
+Check out some of my hands-on labs and projects here:  
 ➡️  [Projects Portfolio](https://www.pontipekopkaew.com/projects)
 
----
-
-## 📫 Let’s Connect
+## Let’s Connect
 🔗 LinkedIn: **[LinkedIn Profile](www.linkedin.com/in/pontipe-kopkaew-498003213)**
 
-  
 ## Languages/Tools 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
