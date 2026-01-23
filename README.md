@@ -1,13 +1,48 @@
-# Hi, Everyone!
+# Hi, I’m Pontipe 👋
 ## About me
-I am currently enrolled in the Post-Baccalaureate Program in Computer Science while also working toward my cybersecurity
-certification at Oregon State University.
-- Presently, I am working on Python projects for my Portfolio.
-- I have just completed the course on data structures and will be taking the algorithm analysis and software engineering I for the next semester.
-- Let's connect: 
-  📧 kopkaewp@oregonstate.edu 
-- View some of the projects that i have worked on:
-  [Projects Portfolio](https://www.pontipekopkaew.com/projects)
+**Computer Science graduate** with a strong interest in **IT and cybersecurity**, actively building hands-on experience through labs, research, and personal projects. I hold a **Cybersecurity Certificate from Oregon State University** and I’m currently working toward my **CompTIA Security+ certification**.
+
+---
+
+## 🔐 What I’m Working On
+I am building real-world skills in:
+- **IT support and troubleshooting labs**
+- **Cybersecurity research + hands-on security labs**
+- **Penetration testing** on vulnerable web applications (ex: **OWASP Juice Shop**)
+- **Networking + system administration**
+- **Secure development practices**
+- Building a **private VPN using Raspberry Pi 5 + WireGuard**
+- Developing web applications using modern web technologies
+
+These projects have strengthened my understanding of:
+✅ system administration  
+✅ networking fundamentals  
+✅ security fundamentals  
+✅ secure coding + web security  
+
+---
+
+## 🎯 Career Goals
+I enjoy learning new technologies, solving technical problems, and continuously improving my skills.
+
+I am actively seeking:
+- **Entry-level IT roles**
+- **Cybersecurity roles**
+- **Apprenticeships / trainee opportunities**
+
+Where I can gain real-world experience, contribute to a team, and grow professionally.
+
+---
+
+## 📌 Featured Projects
+⭐ Check out some of my hands-on labs and projects here:  
+➡️  [Projects Portfolio](https://www.pontipekopkaew.com/projects)
+
+---
+
+## 📫 Let’s Connect
+🔗 LinkedIn: **[LinkedIn Profile](www.linkedin.com/in/pontipe-kopkaew-498003213)**
+
   
 ## Languages/Tools 
 <div>
