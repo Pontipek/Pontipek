@@ -1,7 +1,7 @@
 # Hi, I’m Pontipe 👋
 ---
 ## About me
-Computer Science graduate with a strong interest in IT and cybersecurity, actively building hands-on experience through labs, research, and personal projects. I hold a Cybersecurity Certificate from Oregon State University and I’m currently working toward my CompTIA Security+ certification.
+Computer Science graduate with a strong interest in IT and cybersecurity, actively building hands-on experience through labs, research, and personal projects. I hold a Cybersecurity Certificate from Oregon State University, the CompTIA Security+ certification, and am currently working toward the CompTIA Network+.
 
 ## What I’m Working On
 I am building real-world skills in:
